@@ -1,0 +1,115 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "type": "Full-time",
+        "description": "Develop and maintain web applications.",
+        "location": "San Francisco, CA",
+        "salary": "$120,000 - $140,000",
+        "company": "TechCorp",
+        "experience": "3+ years",
+        "posted_date": "2025-02-09"
+      },
+      {
+        "id": 2,
+        "title": "Product Manager",
+        "type": "Full-time",
+        "description": "Lead product development and strategy.",
+        "location": "New York, NY",
+        "salary": "$110,000 - $130,000",
+        "company": "InnovateX",
+        "experience": "5+ years",
+        "posted_date": "2025-02-08"
+      },
+      {
+        "id": 3,
+        "title": "Graphic Designer",
+        "type": "Part-time",
+        "description": "Create engaging designs for digital and print media.",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "company": "CreativeStudio",
+        "experience": "2+ years",
+        "posted_date": "2025-02-07"
+      },
+      {
+        "id": 4,
+        "title": "Data Analyst",
+        "type": "Full-time",
+        "description": "Analyze data to support business decisions.",
+        "location": "Chicago, IL",
+        "salary": "$90,000 - $110,000",
+        "company": "DataTech",
+        "experience": "3+ years",
+        "posted_date": "2025-02-06"
+      },
+      {
+        "id": 5,
+        "title": "HR Manager",
+        "type": "Full-time",
+        "description": "Oversee HR policies and employee relations.",
+        "location": "Los Angeles, CA",
+        "salary": "$95,000 - $115,000",
+        "company": "PeopleFirst",
+        "experience": "5+ years",
+        "posted_date": "2025-02-05"
+      },
+      {
+        "id": 6,
+        "title": "Marketing Specialist",
+        "type": "Contract",
+        "description": "Develop and execute marketing campaigns.",
+        "location": "Seattle, WA",
+        "salary": "$70,000 - $90,000",
+        "company": "MarketGenius",
+        "experience": "3+ years",
+        "posted_date": "2025-02-04"
+      },
+      {
+        "id": 7,
+        "title": "Cybersecurity Analyst",
+        "type": "Full-time",
+        "description": "Ensure security of IT systems and networks.",
+        "location": "Austin, TX",
+        "salary": "$100,000 - $120,000",
+        "company": "SecureNet",
+        "experience": "4+ years",
+        "posted_date": "2025-02-03"
+      },
+      {
+        "id": 8,
+        "title": "Mechanical Engineer",
+        "type": "Full-time",
+        "description": "Design and develop mechanical systems.",
+        "location": "Detroit, MI",
+        "salary": "$85,000 - $105,000",
+        "company": "AutoMotive Inc.",
+        "experience": "3+ years",
+        "posted_date": "2025-02-02"
+      },
+      {
+        "id": 9,
+        "title": "Customer Support Representative",
+        "type": "Part-time",
+        "description": "Assist customers with inquiries and support.",
+        "location": "Remote",
+        "salary": "$40,000 - $55,000",
+        "company": "HelpDeskPro",
+        "experience": "1+ years",
+        "posted_date": "2025-02-01"
+      },
+      {
+        "id": 10,
+        "title": "DevOps Engineer",
+        "type": "Full-time",
+        "description": "Manage CI/CD pipelines and cloud infrastructure.",
+        "location": "Boston, MA",
+        "salary": "$115,000 - $135,000",
+        "company": "CloudWorks",
+        "experience": "4+ years",
+        "posted_date": "2025-01-31"
+      }
+    ]
+  }
+  
