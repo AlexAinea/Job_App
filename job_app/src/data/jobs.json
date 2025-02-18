@@ -98,17 +98,6 @@
         "company": "HelpDeskPro",
         "experience": "1+ years",
         "posted_date": "2025-02-01"
-      },
-      {
-        "id": 10,
-        "title": "DevOps Engineer",
-        "type": "Full-time",
-        "description": "Manage CI/CD pipelines and cloud infrastructure.",
-        "location": "Boston, MA",
-        "salary": "$115,000 - $135,000",
-        "company": "CloudWorks",
-        "experience": "4+ years",
-        "posted_date": "2025-01-31"
       }
     ]
   }
