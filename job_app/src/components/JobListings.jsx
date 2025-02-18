@@ -2,9 +2,12 @@ import React from 'react'
 import jobData from '../data/jobs.json'
 
 const JobListings = () => {
+  const recentJobs = j
   return (
     <div>
-        <h1/>Jobs:
+        <div className=' grid place-content-center font-extrabold'>
+            <h1/>BROWSE JOBS
+        </div>
         <div className='flex flex-row justify-evenly flex-wrap'>
             {jobData.jobs.map((job) => (<div key={job.id} className='rounded-xl border-2 h-56 w-96 my-2.5'>
                 <h2>{job.title}</h2>
