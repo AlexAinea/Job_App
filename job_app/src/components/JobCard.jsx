@@ -6,7 +6,7 @@ const JobCard = () => {
     <div className="p-8">
       {/* Header */}
       <div className="text-center font-extrabold text-3xl mb-6">
-        <h1 className="text-green-700">BROWSE JOBS</h1>
+        <h1 className="text-green-700">ALL JOBS</h1>
       </div>
 
       {/* Job Cards Container */}

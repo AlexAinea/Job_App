@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+.mlhigh {
+    margin-left: 45%;
+    overflow: hidden;
+}
+
+.cstmBut {
+    position: relative; 
+    overflow: hidden; 
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.cstmBut::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: green;
+    top: 0;
+    left: -100%;
+    transition:0.3s ease;
+    z-index: -1;
+}
+
+.cstmBut:hover::before {
+    left: 0;
+}
+
+.cstmBut:hover{
+    box-shadow: 10px 10px 15px green;
+    transition: 1s ease;
+}
+
+
