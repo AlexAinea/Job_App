@@ -1,202 +1,82 @@
 {
   "jobs": [
-    {
-      "id": 1,
-      "title": "Software Engineer",
-      "type": "Full-time",
-      "description": "Develop and maintain web applications.",
-      "location": "San Francisco, CA",
-      "salary": "$120,000 - $140,000",
-      "company": "TechCorp",
-      "experience": "3+ years",
-      "posted_date": "2025-02-09"
-    },
-    {
-      "id": 2,
-      "title": "Product Manager",
-      "type": "Full-time",
-      "description": "Lead product development and strategy.",
-      "location": "New York, NY",
-      "salary": "$110,000 - $130,000",
-      "company": "InnovateX",
-      "experience": "5+ years",
-      "posted_date": "2025-02-08"
-    },
-    {
-      "id": 3,
-      "title": "Graphic Designer",
-      "type": "Part-time",
-      "description": "Create engaging designs for digital and print media.",
-      "location": "Remote",
-      "salary": "$50,000 - $70,000",
-      "company": "CreativeStudio",
-      "experience": "2+ years",
-      "posted_date": "2025-02-07"
-    },
-    {
-      "id": 4,
-      "title": "Data Analyst",
-      "type": "Full-time",
-      "description": "Analyze data to support business decisions.",
-      "location": "Chicago, IL",
-      "salary": "$90,000 - $110,000",
-      "company": "DataTech",
-      "experience": "3+ years",
-      "posted_date": "2025-02-06"
-    },
-    {
-      "id": 5,
-      "title": "HR Manager",
-      "type": "Full-time",
-      "description": "Oversee HR policies and employee relations.",
-      "location": "Los Angeles, CA",
-      "salary": "$95,000 - $115,000",
-      "company": "PeopleFirst",
-      "experience": "5+ years",
-      "posted_date": "2025-02-05"
-    },
-    {
-      "id": 6,
-      "title": "Marketing Specialist",
-      "type": "Contract",
-      "description": "Develop and execute marketing campaigns.",
-      "location": "Seattle, WA",
-      "salary": "$70,000 - $90,000",
-      "company": "MarketGenius",
-      "experience": "3+ years",
-      "posted_date": "2025-02-04"
-    },
-    {
-      "id": 7,
-      "title": "Cybersecurity Analyst",
-      "type": "Full-time",
-      "description": "Ensure security of IT systems and networks.",
-      "location": "Austin, TX",
-      "salary": "$100,000 - $120,000",
-      "company": "SecureNet",
-      "experience": "4+ years",
-      "posted_date": "2025-02-03"
-    },
-    {
-      "id": 8,
-      "title": "Mechanical Engineer",
-      "type": "Full-time",
-      "description": "Design and develop mechanical systems.",
-      "location": "Detroit, MI",
-      "salary": "$85,000 - $105,000",
-      "company": "AutoMotive Inc.",
-      "experience": "3+ years",
-      "posted_date": "2025-02-02"
-    },
-    {
-      "id": 9,
-      "title": "Customer Support Representative",
-      "type": "Part-time",
-      "description": "Assist customers with inquiries and support.",
-      "location": "Remote",
-      "salary": "$40,000 - $55,000",
-      "company": "HelpDeskPro",
-      "experience": "1+ years",
-      "posted_date": "2025-02-01"
-    },
-    {
-      "id": 10,
-      "title": "UX/UI Designer",
-      "type": "Full-time",
-      "description": "Design user interfaces and experiences.",
-      "location": "San Diego, CA",
-      "salary": "$80,000 - $100,000",
-      "company": "DesignPro",
-      "experience": "3+ years",
-      "posted_date": "2025-01-31"
-    },
-    {
-      "id": 11,
-      "title": "DevOps Engineer",
-      "type": "Full-time",
-      "description": "Manage cloud infrastructure and CI/CD pipelines.",
-      "location": "Boston, MA",
-      "salary": "$110,000 - $130,000",
-      "company": "CloudSolutions",
-      "experience": "4+ years",
-      "posted_date": "2025-01-30"
-    },
-    {
-      "id": 12,
-      "title": "Sales Representative",
-      "type": "Part-time",
-      "description": "Sell and promote company products.",
-      "location": "Dallas, TX",
-      "salary": "$45,000 - $65,000",
-      "company": "SalesPros",
-      "experience": "2+ years",
-      "posted_date": "2025-01-29"
-    },
-    {
-      "id": 13,
-      "title": "Financial Analyst",
-      "type": "Full-time",
-      "description": "Analyze financial data to drive business decisions.",
-      "location": "Miami, FL",
-      "salary": "$85,000 - $100,000",
-      "company": "FinanceCorp",
-      "experience": "3+ years",
-      "posted_date": "2025-01-28"
-    },
-    {
-      "id": 14,
-      "title": "Legal Counsel",
-      "type": "Full-time",
-      "description": "Provide legal guidance and compliance advice.",
-      "location": "Washington, D.C.",
-      "salary": "$120,000 - $150,000",
-      "company": "LegalExperts",
-      "experience": "6+ years",
-      "posted_date": "2025-01-27"
-    },
-    {
-      "id": 15,
-      "title": "AI Research Scientist",
-      "type": "Full-time",
-      "description": "Conduct research in artificial intelligence.",
-      "location": "Palo Alto, CA",
-      "salary": "$140,000 - $180,000",
-      "company": "AI Innovations",
-      "experience": "5+ years",
-      "posted_date": "2025-01-26"
-    },
-    {
-      "id": 16,
-      "title": "Pharmacist",
-      "type": "Full-time",
-      "description": "Dispense medications and advise patients.",
-      "location": "Houston, TX",
-      "salary": "$100,000 - $120,000",
-      "company": "MediCare",
-      "experience": "4+ years",
-      "posted_date": "2025-01-25"
-    },
-    {
-      "id": 17,
-      "title": "Architect",
-      "type": "Full-time",
-      "description": "Design buildings and urban spaces.",
-      "location": "Denver, CO",
-      "salary": "$95,000 - $115,000",
-      "company": "Skyline Designs",
-      "experience": "4+ years",
-      "posted_date": "2025-01-24"
-    },
-    {
-      "id": 18,
-      "title": "Event Coordinator",
-      "type": "Contract",
-      "description": "Plan and execute corporate events.",
-      "location": "Orlando, FL",
-      "salary": "$60,000 - $80,000",
-      "company": "EventMasters",
-      "experience": "3+ years",
-      "posted_date": "2025-01-23"
-    }
+  {
+  "id": 1,
+  "title": "Software Engineer",
+  "type": "Full-time",
+  "description": "As a Software Engineer at TechCorp, you will be responsible for designing, developing, testing, and maintaining web applications that provide seamless user experiences. You will work with cross-functional teams, including designers, product managers, and other engineers, to develop robust and scalable solutions. The role requires a deep understanding of front-end and back-end technologies, as well as a strong problem-solving mindset. You will write clean, efficient, and maintainable code while following best software development practices. Additionally, you will participate in code reviews, contribute to architectural decisions, and stay updated with emerging technologies to ensure our applications remain cutting-edge and competitive. You will also be involved in debugging and optimizing applications to enhance performance and user experience.",
+  "location": "San Francisco, CA",
+  "salary": "$120,000 - $140,000",
+  "company": "TechCorp",
+  "experience": "3+ years",
+  "posted_date": "2025-02-09"
+  },
+  {
+  "id": 2,
+  "title": "Product Manager",
+  "type": "Full-time",
+  "description": "As a Product Manager at InnovateX, you will be responsible for leading the development and execution of product strategies, ensuring that our offerings align with market demands and business objectives. You will collaborate closely with engineering, design, marketing, and sales teams to define product roadmaps and drive successful launches. The role requires strong analytical skills to gather user insights, monitor key performance metrics, and make data-driven decisions. You will oversee the entire product lifecycle, from concept to launch, while prioritizing features that enhance user experience and drive growth. Your ability to communicate effectively and align stakeholders will be crucial in shaping the future of our products. Additionally, you will work on competitive analysis and industry trend monitoring to ensure our products remain relevant and innovative.",
+  "location": "New York, NY",
+  "salary": "$110,000 - $130,000",
+  "company": "InnovateX",
+  "experience": "5+ years",
+  "posted_date": "2025-02-08"
+  },
+  {
+  "id": 3,
+  "title": "Graphic Designer",
+  "type": "Part-time",
+  "description": "As a Graphic Designer at CreativeStudio, you will be responsible for conceptualizing and creating visually engaging designs for both digital and print media. Your work will include designing marketing materials, branding assets, social media graphics, and UI elements. You will collaborate with marketing teams, copywriters, and developers to ensure that all visuals align with brand guidelines and marketing objectives. The role requires proficiency in design software such as Adobe Creative Suite and an ability to translate creative briefs into compelling visuals. Strong attention to detail, typography skills, and a passion for design trends are essential for success in this role. You will also contribute to brainstorming sessions and assist in developing innovative design concepts that enhance brand identity.",
+  "location": "Remote",
+  "salary": "$50,000 - $70,000",
+  "company": "CreativeStudio",
+  "experience": "2+ years",
+  "posted_date": "2025-02-07"
+  },
+  {
+  "id": 4,
+  "title": "Data Analyst",
+  "type": "Full-time",
+  "description": "As a Data Analyst at DataTech, you will analyze large datasets to identify trends, patterns, and insights that support business decisions. You will develop reports, dashboards, and data visualizations to communicate findings effectively. The role requires strong analytical skills, proficiency in SQL and Python, and experience with data visualization tools such as Tableau or Power BI. You will collaborate with business stakeholders to define key metrics and optimize data collection strategies. Your ability to work with structured and unstructured data will be essential in providing actionable insights that drive company success. Additionally, you will ensure data accuracy and integrity by performing regular audits and quality checks.",
+  "location": "Chicago, IL",
+  "salary": "$90,000 - $110,000",
+  "company": "DataTech",
+  "experience": "3+ years",
+  "posted_date": "2025-02-06"
+  },
+  {
+  "id": 5,
+  "title": "HR Manager",
+  "type": "Full-time",
+  "description": "As an HR Manager at PeopleFirst, you will oversee all human resource functions, including talent acquisition, employee relations, benefits administration, and compliance with labor laws. You will be responsible for fostering a positive work environment and implementing policies that support company goals and employee well-being. The role requires strong leadership, communication, and problem-solving skills. You will work closely with department heads to identify staffing needs, develop training programs, and enhance organizational culture. Additionally, you will be responsible for conflict resolution, performance management, and ensuring adherence to HR best practices and legal requirements. You will also play a key role in implementing diversity and inclusion initiatives and developing employee engagement strategies to boost productivity and retention.",
+  "location": "Los Angeles, CA",
+  "salary": "$95,000 - $115,000",
+  "company": "PeopleFirst",
+  "experience": "5+ years",
+  "posted_date": "2025-02-05"
+  },
+  {
+  "id": 6,
+  "title": "Marketing Specialist",
+  "type": "Full-time",
+  "description": "As a Marketing Specialist at BrandBoost, you will develop and execute marketing campaigns to increase brand awareness and engagement. Your responsibilities include managing digital marketing efforts, creating content for social media, email campaigns, and analyzing performance metrics. The role requires proficiency in SEO, Google Analytics, and marketing automation tools. You will collaborate with cross-functional teams to align marketing strategies with business goals and optimize conversion rates. Additionally, you will conduct market research to identify emerging trends and opportunities. Strong communication skills and creativity are essential for developing compelling marketing strategies that drive growth.",
+  "location": "Austin, TX",
+  "salary": "$70,000 - $90,000",
+  "company": "BrandBoost",
+  "experience": "3+ years",
+  "posted_date": "2025-02-04"
+  },
+  {
+  "id": 7,
+  "title": "Network Administrator",
+  "type": "Full-time",
+  "description": "As a Network Administrator at SecureNet, you will be responsible for maintaining and securing the company’s IT infrastructure. Your role involves configuring, monitoring, and troubleshooting network systems to ensure optimal performance and security. You will work with various network protocols, firewalls, and cloud-based services. Additionally, you will assist in implementing cybersecurity measures to protect company data. Strong analytical skills, problem-solving abilities, and knowledge of networking tools are essential for success in this role. You will collaborate with IT teams to design and implement scalable solutions that support business operations effectively.",
+  "location": "Seattle, WA",
+  "salary": "$85,000 - $100,000",
+  "company": "SecureNet",
+  "experience": "4+ years",
+  "posted_date": "2025-02-03"
+  }
   ]
-}
+  }
+  
